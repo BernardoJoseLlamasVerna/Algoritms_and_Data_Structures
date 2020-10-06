@@ -1,0 +1,8 @@
+* this pattern uses objects or sets to collect values/frequencies of values.
+* this can often avoid the need for nested loops or O(N²) operations with arrays/strings.
+
+Example: write a function called same(), which accepts 2 arrays.
+The function should return TRUE if every value in the array has its corresponding value squared in the second array.
+The frequency of values must be the same.
+
+Note: 2 for-loops better than 2 nested for-loops.
