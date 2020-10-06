@@ -8,6 +8,7 @@ function same(arr1, arr2) {
         if (correctIndex === -1) {
             return false;
         }
+        //once found, delete item from array
         arr2.splice(correctIndex, 1);
     }
     return true;

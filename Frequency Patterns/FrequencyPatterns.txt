@@ -1,8 +1,19 @@
 * this pattern uses objects or sets to collect values/frequencies of values.
 * this can often avoid the need for nested loops or O(N²) operations with arrays/strings.
 
-Example: write a function called same(), which accepts 2 arrays.
+Example 1: write a function called same(), which accepts 2 arrays.
 The function should return TRUE if every value in the array has its corresponding value squared in the second array.
 The frequency of values must be the same.
 
 Note: 2 for-loops better than 2 nested for-loops.
+
+Refactored version: loops each array once.
+------------------
+
+Example 2: Given two strings, write a function to determine if the second string is an anagram of the first.
+An anagram is a word, phrase, or name formed by rearranging the letters of another, such as cinema formed from "iceman".
+
+validAnagram("", "") ---> true
+validAnagram("aaz", "zza") ---> true
+validAnagram("anagram", "nagaram") ---> true
+validAnagram("rat", "car") ---> false

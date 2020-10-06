@@ -5,14 +5,14 @@ function same(arr1, arr2) {
 
     // this 2 arrays are going to store how many times each array element is repeated:
     // they avoid to use O(N²) operations.
-    let frequencyCounter1 = {};
-    let frequencyCounter2 = {};
+    let frequencyCounter1 = {}; // [1, 2, 3] --> frequencyCounter1 = [1 => 1, 2 => 1, 3=>1]
+    let frequencyCounter2 = {}; // [4, 1, 9] --> frequencyCounter2 = [4 => 1, 1 => 1, 9=>1]
 
     for (let val of arr1) {
         frequencyCounter1[val] = (frequencyCounter1[val] || 0) +1;
     }
     for (let val of arr2) {
-        frequencyCounter1[val] = (frequencyCounter2[val] || 0) +1;
+        frequencyCounter2[val] = (frequencyCounter2[val] || 0) +1;
     }
 
     for(let key in frequencyCounter1) {
