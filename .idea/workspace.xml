@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Frequency Patterns/anagram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiple Pointers Pattern/MultiPointersPattern.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiple Pointers Pattern/countUniqueValues.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiple Pointers Pattern/multiPointerNaive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiple Pointers Pattern/multiPointerRefactor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency Patterns/FrequencyPatterns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Frequency Patterns/FrequencyPatterns.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency Patterns/frequency_patterns_naive_solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frequency Patterns/frequency_patterns_naive_solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency Patterns/frequency_patterns_refactored.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frequency Patterns/frequency_patterns_refactored.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -34,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunManager">
     <configuration name="frequency_patterns_refactored.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Frequency Patterns/frequency_patterns_refactored.js" working-dir="$PROJECT_DIR$/Frequency Patterns">
@@ -69,6 +71,8 @@
       <updated>1601914239552</updated>
       <workItem from="1601914241169" duration="1206000" />
       <workItem from="1601997459098" duration="4509000" />
+      <workItem from="1602084036724" duration="19000" />
+      <workItem from="1602084067950" duration="4545000" />
     </task>
     <servers />
   </component>
