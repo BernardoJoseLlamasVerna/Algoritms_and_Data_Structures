@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises 1/areThereDuplicates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises 1/sameFrequency.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 1/averagePair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 1/isSubsequence.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 1/areThereDuplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 1/areThereDuplicates.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,12 @@
       <workItem from="1602084036724" duration="19000" />
       <workItem from="1602084067950" duration="7487000" />
       <workItem from="1602254896440" duration="4813000" />
+      <workItem from="1602332537319" duration="16000" />
+      <workItem from="1602332842578" duration="40000" />
+      <workItem from="1602332895314" duration="16000" />
+      <workItem from="1602332925565" duration="17000" />
+      <workItem from="1602332992543" duration="55000" />
+      <workItem from="1602333063843" duration="4781000" />
     </task>
     <servers />
   </component>
@@ -100,9 +107,9 @@
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1892" height="274" key="GridCell.Tab.0.right/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1601915442375" />
-    <state x="75" y="1114" width="1506" height="1028" maximized="true" key="dock-window-1" timestamp="1602255639354">
+    <state x="470" y="1114" width="1268" height="1028" maximized="true" key="dock-window-1" timestamp="1602333132726">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="75" y="1114" width="1506" height="1028" maximized="true" key="dock-window-1/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1602255639354" />
+    <state x="470" y="1114" width="1268" height="1028" maximized="true" key="dock-window-1/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1602333132726" />
   </component>
 </project>

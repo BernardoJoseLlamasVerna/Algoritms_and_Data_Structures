@@ -11,7 +11,7 @@
 // areThereDuplicates(1, 2, 2) ---> true
 // areThereDuplicates('a', 'b', 'c', 'a) ---> true
 
-function areThereDuplicates(argumentsArray) {
+function areThereDuplicates() {
     let collection = {};
     for(let val in arguments) {
         collection[arguments[val]] = (collection[arguments[val]] || 0) + 1;
@@ -22,7 +22,7 @@ function areThereDuplicates(argumentsArray) {
     return false;
 }
 
-function areThereDuplicates(args) {
+function areThereDuplicates_2(args) {
     // Two pointers
     args.sort((a,b) => a > b);
     let start = 0;
@@ -37,6 +37,6 @@ function areThereDuplicates(args) {
     return false;
 }
 
-function areThereDuplicates() {
+function areThereDuplicates_3() {
     return new Set(arguments).size !== arguments.length;
 }
