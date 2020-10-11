@@ -11,15 +11,21 @@
 // isSubsequence('abc', 'acb')           ---> false
 
 function isSubsequence(str1, str2) {
-    if (str2.length === 0) return 0;
-
-    // recorremos str2 ---> si se encuentra una letra de str2 igual a str1(0), se almacena como true
-    //                 ---> si se encuentra una letra de str2 igual a str1(1), se almacena como true
-
     var i = 0;
-    for (var j = 0; j < str2.length; j++) {
-        if (str1[i] !== str2[j]) {
-            i++;
-        }
+    var j = 0;
+    if (!str1) return true;
+    if (str2.length === 0) return false;
+    while (j < str2.length) {
+        if (str2[j] === str1[i]) i++;
+        if (i === str1.length) return true;
+        j++;
     }
+    return false;
+}
+
+function isSubsequence(str1, str2) {
+    if(str1.length === 0) return true
+    if(str2.length === 0) return false
+    if(str2[0] === str1[0]) return isSubsequence(str1.slice(1), str2.slice(1))
+    return isSubsequence(str1, str2.slice(1))
 }
