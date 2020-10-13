@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises 1/findLongestSubstring.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises 1/maxSubarraySum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises 1/minSubArrayLen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.-Recursion/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.-Recursion/countDown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.-Recursion/factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.-Recursion/recursionHelperMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.-Recursion/recursionPureMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.-Recursion/sumRange.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises 1/isSubsequence.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 1/isSubsequence.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,8 @@
       <workItem from="1602332925565" duration="17000" />
       <workItem from="1602332992543" duration="55000" />
       <workItem from="1602333063843" duration="5114000" />
-      <workItem from="1602428411061" duration="9935000" />
+      <workItem from="1602428411061" duration="10012000" />
+      <workItem from="1602570657562" duration="5980000" />
     </task>
     <servers />
   </component>
