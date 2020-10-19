@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises 2 Recursion/factorial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises 2 Recursion/fib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises 2 Recursion/power.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises 2 Recursion/productOfArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises 2 Recursion/recursiveRange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/capitalizeFirst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/capitalizeWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/collectStrings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/flatten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/isPalindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/nestedEvenSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/reverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/someRecursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises 3 Recursion Challenge/stringifyNumbers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.-Recursion/factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/5.-Recursion/factorial.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +92,9 @@
       <workItem from="1602333063843" duration="5114000" />
       <workItem from="1602428411061" duration="10012000" />
       <workItem from="1602570657562" duration="6052000" />
-      <workItem from="1602656276557" duration="5458000" />
+      <workItem from="1602656276557" duration="5652000" />
+      <workItem from="1602743680283" duration="599000" />
+      <workItem from="1603088648403" duration="5388000" />
     </task>
     <servers />
   </component>
