@@ -1,0 +1,22 @@
+Linear Search:
+--------------
+Given an array, the simplest way to search for a value is to look at every element in the array and check
+if it's the value we want.
+
+JS implements indexOf, includes, find, findIndex.
+
+Linear Search Big O implementation:
+-----------------------------------
+- best scenario: O(1), search something that exists on the array ---> O(1) operations
+- worst scenario: O(n), search something that doesn't exist on the array ---> O(n) operations
+- average: O(n) ---> something almost at the end of the array.
+
+Binary Search:
+--------------
+- binary search is a much faster form of search.
+- rather than eliminating one element at a time, you can eliminate half
+  of the remaining elements at a time.
+- IMPORTANT: binary search only works on sorted arrays!
+
+
+
