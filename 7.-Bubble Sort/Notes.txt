@@ -1,0 +1,34 @@
+What is sorting?
+----------------
+- Sorting is the process of rearranging the items in a collection
+  (e.g. an array) so that the items are in some kind of order.
+- Sorting is an incredibly common task, so it's good to know how it works.
+- There are many different ways to sort things and different techniques
+  have their own advantages and disadvantages.
+
+Bubble Sort:
+------------
+- A sorting algorithm where the largest values bubble up to the top!
+- As we're forlooping an array we compare each element with its following.
+-- if our element is larger than what we're comparing it to
+    ---> we swap: jump to the next element and compare. If is larger again, swap again.
+-- if our element is smaller, compare next element to its next.
+
+===> a sorting algorith where the largest values bubble up to the top.
+
+[5, 3, 4, 1, 2] --> [3, 5, 4, 1, 2] --> [3, 4, 5, 1, 2] ---> [3, 4, 1, 5, 2] --> [3, 4, 1, 2, 5]
+
+- Many sorting algorithms involve some type of swapping functionality
+  (e.g. swapping to numbers to put them in order)
+
+BubbleSort Pseudocode:
+----------------------
+- Start looping from with a variable called i the end of the array towards the beginning.
+- Start an inner loop with a variable called j from the beginning until i-1.
+- If arr[j] is greater than arr[j + 1], swap those two values!.
+- Return the sorted array.
+
+Time Complexity:
+----------------
+- O(n²) ---> using noSwaps variable on optimized version, is almost linear O(n)
+
