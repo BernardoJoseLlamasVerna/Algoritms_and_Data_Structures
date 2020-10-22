@@ -1,0 +1,4 @@
+- Insertion and bubble are faster on nearly sorted data.
+- Bubble, selection and insertion sort are all roughly equivalent.
+- All have average time complexities that are quadratic.
+- We can do better...but we need more complex algorithms.
