@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7.-Bubble Sort/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.-Bubble Sort/sortingBubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.-Selection Sort/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.-Selection Sort/selectionSort.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,8 @@
       <workItem from="1602743680283" duration="599000" />
       <workItem from="1603088648403" duration="6001000" />
       <workItem from="1603172609631" duration="4921000" />
-      <workItem from="1603261139512" duration="6776000" />
+      <workItem from="1603261139512" duration="8074000" />
+      <workItem from="1603347717602" duration="2622000" />
     </task>
     <servers />
   </component>
