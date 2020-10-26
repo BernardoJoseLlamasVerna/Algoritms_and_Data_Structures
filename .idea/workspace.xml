@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11.-Merge Sort/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.-Merge Sort/merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.-Merge Sort/mergeSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.-Quick Sort/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.-Quick Sort/QuickSort Complexity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.-Quick Sort/quickSort.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +33,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/11.-Merge Sort" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/12.-Quick Sort" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12.-Quick Sort" />
+      <recent name="$PROJECT_DIR$/11.-Merge Sort" />
       <recent name="$PROJECT_DIR$/10.-Comparing Bubble, Sort and Insertion Sort" />
       <recent name="$PROJECT_DIR$/Sliding Window Pattern" />
     </key>
@@ -99,7 +101,8 @@
       <workItem from="1603433781566" duration="42000" />
       <workItem from="1603434030764" duration="7000" />
       <workItem from="1603434559083" duration="109000" />
-      <workItem from="1603435463973" duration="5236000" />
+      <workItem from="1603435463973" duration="5990000" />
+      <workItem from="1603696853120" duration="6000000" />
     </task>
     <servers />
   </component>
@@ -127,9 +130,9 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="75" y="1114" width="1476" height="1028" maximized="true" key="dock-window-1/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1602692287944" />
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1603208554903">
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1603733679531">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1603208554903" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1603733679531" />
   </component>
 </project>
