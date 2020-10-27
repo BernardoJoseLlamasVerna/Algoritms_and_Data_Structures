@@ -1,0 +1,96 @@
+Radix Sort:
+-----------
+- Different from other sort algorithms because we're not doing comparisons.
+- Is a special sorting algorithm that works on list of numbers.
+- It exploits the fact that info about the size of a number is encoded in the number of digits.
+    - More digits means a bigger number!.
+
+How does it work:
+-----------------
+- Given an array:
+[1556, 4, 3556, 593, 408, 4386, 902, 7, 8157, 86, 9637, 29]
+
+- We focus on the last digit of each array value and then classify like this:
+0:
+1:
+2: 902
+3: 593
+4: 4
+5:
+6: 86, 4386, 3556, 1556
+7: 9637, 8157, 7
+8: 408
+9: 29
+
+* inside each number we don't sort.
+
+- Then rebuild array like this:
+[902, 593, 4, 1556, 3556, 4386, 86, 7, 8157, 9637, 408, 29]
+
+-We focus on second digit from end of each array value and classify as follows:
+0: 408, 7, 4, 902 -----> 7, 4 go there because they dont have a value on second digit.
+1:
+2: 29
+3: 9637
+4:
+5: 8157, 3556, 1556
+6:
+7:
+8: 86, 4386
+9: 593
+
+- Rebuild array sorted inside each number classification:
+[902, 4, 7, 408, 29, 9637, 1556, 3556, 8157, 4386, 86, 593]
+
+-Focusing on third digit from end:
+0: 86, 29, 7, 4
+1: 8157
+2:
+3: 4386
+4: 408
+5: 593, 3556, 1556
+6: 9637
+7:
+8:
+9: 902
+
+- Rebuild array sorted inside each number classification:
+[4, 7, 29, 86, 8157, 4386, 408, 1556, 3556, 593, 9637, 902]
+
+- Repeat process till array get ordered.
+
+
+Radix Sort Helpers:
+-------------------
+- it's helpful to build a few helper functions first:
+    * getDigit(num, place): returns the digit in num at given place value
+    i.e.:
+        getDigit(12345, 0) ---> 5
+        getDigit(12345, 1) ---> 4
+
+    ==> it will be helpful to put each number inside each "number box".
+
+- a function to get to know how many times do we need to sort numbers in pockets (number box):
+    * digitCount(num): returns the number of digits in num
+    i.e.:
+        digitCount(1)   ---> 1
+        digitCount(25)  ---> 2
+        digitCount(314) ---> 3
+
+- given an array of numbers, returns the number of digits in the largest numbers in the list:
+    * mostDigits(nums)
+    i.e.:
+        mostDigits([1234, 56, 7])    ---> 4
+        mostDigits([1, 1, 11111, 1]) ---> 5
+        mostDigits([12, 34, 56, 78]) ---> 2
+
+Radix Sort Pseudocode:
+----------------------
+- Define a function that accepts list of numbers.
+- Figure out how many digits the largest number has.
+- Loop from k = 0 up to this largest number of digits.
+- For each iteration of the loop:
+    - Create buckets for each digit (0 to 9)
+    - Place each number in the corresponding bucket based on its kth digit.
+- Replace our existing array with values in our buckets, starting with 0 and going up to 9.
+- Return list at the end.
