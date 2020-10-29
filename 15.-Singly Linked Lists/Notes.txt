@@ -1,0 +1,63 @@
+Singly Linked Lists:
+--------------------
+
+1.-What is a linked list?
+--------------------------
+- Similar to an array, but in an array each item is mapped ---> it's indexed with a number.
+- There's no indexes on singly lists.
+- Each element is a node.
+
+- A linked list is a data structure that contains a head, tail and length property.
+    - we just keep track of the head and tail.
+    - from head we can figure out the next one element.
+
+- Linked Lists consist of nodes, and each node has a value and a pointer to another node or null.
+
+2.-Comparisons with Arrays:
+----------------------------
+Lists:
+------
+- Do not have indexes!
+- Connected via nodes with a "next" pointer.
+- Random access is not allowed.
+
+Arrays:
+-------
+- Indexed in order!
+- Insertion and deletion can be expensive.
+- Can quickly be accessed at a specific index.
+
+3.-Pushing pseudocode:
+-----------------------
+- This function should accept a value.
+- Create a new node using the value passed to the function.
+- If there is no head property on the list, set the head and tail to be the newly created node.
+- Otherwise set the next property on the tail to be the new node and set the tail property on
+  the list to be the newly created node.
+- Increment the length by one.
+- Return the linked list.
+
+4.-Popping Pseudocode:
+----------------------
+- Pop: removing a node from the end of the Linked List.
+- When removing you have to assign a new tail.
+- We need to implement a helper method called traverse() to figure out the new tail.
+
+*Pseudocode:
+- If there are no nodes in the list, return undefined.
+- Loop through the list until you reach the tail.
+- Set the next property of the 2nd to last node to be null.
+- Set the tail to be the 2nd to last node.
+- Decrement the length of the list by 1.
+- Return the value of the node removed.
+
+5.-Shifting:
+------------
+- Removing a new node from the beginning of the Linked List. ---> setting a new head.
+
+*Pseudocode:
+- If there are no nodes, return undefined.
+- Store the current head property in a variable.
+- Set the head property to be the current head's next property.
+- Decrement the length by 1.
+- Return the value of the node removed.

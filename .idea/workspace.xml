@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14.-Data Structures Introduction/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/SinglyLinkedLists.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/singlyLinkedList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,19 +33,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/13.-Radix Sort" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15.-Singly Linked Lists" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/6.-Searching" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/15.-Singly Linked Lists" />
       <recent name="$PROJECT_DIR$/13.-Radix Sort" />
       <recent name="$PROJECT_DIR$/12.-Quick Sort" />
       <recent name="$PROJECT_DIR$/11.-Merge Sort" />
       <recent name="$PROJECT_DIR$/10.-Comparing Bubble, Sort and Insertion Sort" />
-      <recent name="$PROJECT_DIR$/Sliding Window Pattern" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6.-Searching" />
     </key>
   </component>
   <component name="RunManager">
@@ -104,7 +106,13 @@
       <workItem from="1603696853120" duration="6600000" />
       <workItem from="1603783062962" duration="5040000" />
       <workItem from="1603869589844" duration="51000" />
-      <workItem from="1603872756637" duration="2958000" />
+      <workItem from="1603872756637" duration="3557000" />
+      <workItem from="1603955788134" duration="14000" />
+      <workItem from="1603957050948" duration="476000" />
+      <workItem from="1603957668578" duration="7000" />
+      <workItem from="1603957720122" duration="293000" />
+      <workItem from="1603959546386" duration="36000" />
+      <workItem from="1603974632539" duration="6549000" />
     </task>
     <servers />
   </component>
