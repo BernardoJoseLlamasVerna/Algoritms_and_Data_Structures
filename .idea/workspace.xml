@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/SinglyLinkedLists.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/singlyLinkedList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.-Singly Linked Lists/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.-Singly Linked Lists/singlyLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/singlyLinkedList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,8 @@
       <workItem from="1603957668578" duration="7000" />
       <workItem from="1603957720122" duration="293000" />
       <workItem from="1603959546386" duration="36000" />
-      <workItem from="1603974632539" duration="6549000" />
+      <workItem from="1603974632539" duration="6802000" />
+      <workItem from="1604042307908" duration="4950000" />
     </task>
     <servers />
   </component>
