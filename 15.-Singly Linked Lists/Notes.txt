@@ -120,3 +120,26 @@ Arrays:
 - Set the next property on that node to be the next of the next node.
 - Decrement the length.
 - Return the value of the node removed.
+
+11.- Reverse:
+-------------
+- Reversing the Linked List in place! ---> you don't make a cpy, you do in place.
+
+*Pseudocode:
+- Swap the head and tail.
+- Create a variable called next.
+- Create a variable called prev.
+- Create a variable called node and initialize it to the head property.
+- Loop through the list.
+- Set next to be the next property on whatever node is.
+- Set the next property on the node to be whatever prev is.
+- Set prev to be the value of the node variable.
+- Set the node variable to be the value of the next variable.
+
+RECAP:
+------
+- Singly Linked Lists are an excellent alternative to arrays when insertion
+  and deletion at the beginning are frequently required.
+- Arrays contain a built in index whereas Linked Lists do not.
+- The idea of a list data structure that consists of nodes is the foundation for
+  other data structures like Stacks and Queues.

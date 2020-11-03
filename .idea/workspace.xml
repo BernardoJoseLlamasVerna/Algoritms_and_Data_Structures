@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/15.-Singly Linked Lists" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebComponentsCurso" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -113,6 +113,7 @@
       <workItem from="1603959546386" duration="36000" />
       <workItem from="1603974632539" duration="6802000" />
       <workItem from="1604042307908" duration="4950000" />
+      <workItem from="1604388132443" duration="3428000" />
     </task>
     <servers />
   </component>
@@ -120,6 +121,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl" timestamp="1604405242115">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604405242115" />
     <state width="1892" height="274" key="GridCell.Tab.0.bottom" timestamp="1601915442375">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
