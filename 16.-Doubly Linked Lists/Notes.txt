@@ -1,0 +1,6 @@
+Doubly Linked Lists
+-------------------
+- Almost identical to Singly Linked Lists, except every node has another pointer to the previous node.
+ -- you can go from a node to its next and come back.
+ -- we need two pointers next/prev.
+ -- more memory === more flexibility
