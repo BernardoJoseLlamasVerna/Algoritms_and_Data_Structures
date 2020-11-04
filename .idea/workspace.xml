@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15.-Singly Linked Lists/BigOComplexity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/DoublyLinkedLists.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/doublyLinkedList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.-Doubly Linked Lists/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.-Doubly Linked Lists/doublyLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/doublyLinkedList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/16.-Doubly Linked Lists" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebComponentsCurso" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -116,6 +114,7 @@
       <workItem from="1603974632539" duration="6802000" />
       <workItem from="1604042307908" duration="4950000" />
       <workItem from="1604388132443" duration="4213000" />
+      <workItem from="1604474390494" duration="6891000" />
     </task>
     <servers />
   </component>
@@ -123,10 +122,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl" timestamp="1604405242115">
+    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl" timestamp="1604485972806">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
-    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604405242115" />
+    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604485972806" />
     <state width="1892" height="274" key="GridCell.Tab.0.bottom" timestamp="1601915442375">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
@@ -143,10 +142,10 @@
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state width="1892" height="274" key="GridCell.Tab.0.right/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1601915442375" />
-    <state x="75" y="1114" width="1476" height="1028" maximized="true" key="dock-window-1" timestamp="1602692287944">
+    <state x="652" y="1114" width="1268" height="1028" maximized="true" key="dock-window-1" timestamp="1604509810066">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="75" y="1114" width="1476" height="1028" maximized="true" key="dock-window-1/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1602692287944" />
+    <state x="652" y="1114" width="1268" height="1028" maximized="true" key="dock-window-1/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604509810066" />
     <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1603733679531">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
