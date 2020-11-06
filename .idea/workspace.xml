@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/BigODoublyLinkedList.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.-Stacks + Queues/BigOQueues.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.-Stacks + Queues/BigOStack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.-Stacks + Queues/NotesQueues.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.-Stacks + Queues/NotesStacks.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.-Stacks + Queues/Stack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.-Stacks + Queues/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.-Stacks + Queues/stack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16.-Doubly Linked Lists/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16.-Doubly Linked Lists/doublyLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/doublyLinkedList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +37,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/16.-Doubly Linked Lists" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/17.-Stacks + Queues" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17.-Stacks + Queues" />
       <recent name="$PROJECT_DIR$/16.-Doubly Linked Lists" />
       <recent name="$PROJECT_DIR$/15.-Singly Linked Lists" />
       <recent name="$PROJECT_DIR$/13.-Radix Sort" />
       <recent name="$PROJECT_DIR$/12.-Quick Sort" />
-      <recent name="$PROJECT_DIR$/11.-Merge Sort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/6.-Searching" />
@@ -120,7 +124,7 @@
       <workItem from="1604561559070" duration="599000" />
       <workItem from="1604563677956" duration="4845000" />
       <workItem from="1604647526459" duration="17000" />
-      <workItem from="1604647611257" duration="4535000" />
+      <workItem from="1604647611257" duration="11685000" />
     </task>
     <servers />
   </component>
@@ -128,10 +132,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl" timestamp="1604569241953">
+    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl" timestamp="1604654881448">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
-    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604569241953" />
+    <state x="690" y="240" width="530" height="598" key="FileChooserDialogImpl/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604654881448" />
     <state width="1892" height="274" key="GridCell.Tab.0.bottom" timestamp="1601915442375">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
@@ -152,9 +156,9 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="652" y="1114" width="1268" height="1028" maximized="true" key="dock-window-1/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604563688742" />
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1603733679531">
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1604676794407">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1603733679531" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1604676794407" />
   </component>
 </project>

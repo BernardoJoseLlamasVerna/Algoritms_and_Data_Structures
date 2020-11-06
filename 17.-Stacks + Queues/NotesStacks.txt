@@ -1,0 +1,46 @@
+Stacks and Queues:
+------------------
+- Stacks and Queues are abstract data structures.
+- JS doesn't have its own stack structure, other languages have.
+
+1.-Stack:
+---------
+- A Stack is a LIFO (Last in First Out) data structure: the last element added to the stack
+  will be the first element removed from the stack.
+- Stacks are used to handle function invocations (the call stack), for operations like undo/redo
+  and for routing (remember pages you have visited and go back/forward) and much more!
+- They are not a built in data structure in JS, but are relatively simple to implement.
+
+2.-Where stacks are used:
+-------------------------
+- Managing function invocations.
+- Undo / Redo.
+- Routing (the history object) is treated like a stack!.
+
+3.-Creating a stack using an array:
+-----------------------------------
+- The easiest way to implement a stack is using an array with 2 rules:
+    * first element to be stored, last element to be removed.
+    * last element to be stored, first element to be removed.
+
+    ---> use push() and pop().
+    ---> use shift() and unshift().
+
+4.-Stack Pseudocode:
+--------------------
+*Pushing:
+- The function should accept a value.
+- Create a new node with that value.
+- If there are no nodes in the stack, set the first and last property to be the newly created node.
+- If there is at least one node, create a variable that stores the current first property on the stack.
+- Reset the first property to be the newly created node.
+- Set the next property on the node to be the previously created variable.
+- Increment the size of the stack by 1.
+
+*Pop:
+- If there are no nodes in the stack, return null.
+- Create a temporary variable to store the first property on the stack.
+- If there is only 1 node, set the first and last property to be null.
+- If there is more than one node, set the first property to be the next property on the current first.
+- Decrement the size by 1.
+- Return the value of the node removed.
