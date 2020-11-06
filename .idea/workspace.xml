@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/BigODoublyLinkedList.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/16.-Doubly Linked Lists/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/16.-Doubly Linked Lists/doublyLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/16.-Doubly Linked Lists/doublyLinkedList.js" afterDir="false" />
@@ -32,19 +33,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebComponentsCurso" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/16.-Doubly Linked Lists" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/6.-Searching" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/16.-Doubly Linked Lists" />
       <recent name="$PROJECT_DIR$/15.-Singly Linked Lists" />
       <recent name="$PROJECT_DIR$/13.-Radix Sort" />
       <recent name="$PROJECT_DIR$/12.-Quick Sort" />
       <recent name="$PROJECT_DIR$/11.-Merge Sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6.-Searching" />
     </key>
   </component>
   <component name="RunManager">
@@ -118,6 +119,8 @@
       <workItem from="1604560486981" duration="12000" />
       <workItem from="1604561559070" duration="599000" />
       <workItem from="1604563677956" duration="4845000" />
+      <workItem from="1604647526459" duration="17000" />
+      <workItem from="1604647611257" duration="4535000" />
     </task>
     <servers />
   </component>
