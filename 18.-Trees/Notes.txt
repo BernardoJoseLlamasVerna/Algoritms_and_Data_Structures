@@ -1,0 +1,79 @@
+Trees:
+------
+- BSD: Binary Search Tree.
+
+1.-What is a tree?:
+-------------------
+- A data structure that consists of nodes in a parent/child relationship.
+- A node can be linked to several nodes (to be reference/to be referenced).
+- root: top most node.
+- Trees are nonlinear (Lists were linear).
+- A Singly Linked List can be considered a sort of special case of a tree.
+- In a tree every node is moving away from the root node (two same level nodes cannot be linked).
+- A root is necessary to be considered a tree.
+
+2.-Tree Terminology:
+--------------------
+- Root: The top node in a tree.
+- Child: A node directly connected to another node when moving away from the Root.
+- Parent: The converse notion of a child.
+- Siblings: A group of nodes with the same parent.
+- Leaf: A node with no children.
+- Edge: The connection between one node and another.
+
+3.-Uses of trees:
+-----------------
+- HTML DOM.
+- Network Routing.
+- Abstract Syntax Tree.
+- Artificial Intelligence.
+- Folders Operating Systems.
+- Computer Files Systems.
+
+4.-Kinds Of Trees:
+------------------
+- Trees.
+- Binary Trees.
+- Binary Search Trees: node values are ordered at the same level from left to right.
+
+* Binary Search Trees:
+- every parent node has at most two children.
+- every node to the left of a parent node is always less than the parent.
+- every node to the right of a parent node is always greater than the parent.
+
+5.-Inserting:
+-------------
+- Steps can be done iteratively or recursively.
+
+*Pseudocode:
+- Create a new node.
+- Starting at the root.
+    - Check if there is a root, if not -> the root becomes that new node!
+    - If there is a root, check if the value of the node is greater than or less than the value of the root.
+    - If it is greater:
+        - Check to see if there is a node to the right:
+            - If there is -> move to that node and repeat these steps.
+            - If there is not -> add that node as the right property.
+    - If it less:
+        - Check to see if there is a node to the left:
+            - If there is -> move to that node and repeat these steps.
+            - If there is not -> add that node as the left property.
+
+6.-Find:
+--------
+- Steps can be done iteratively or recursively.
+
+*Pseudocode:
+- Starting at the root:
+    - Check if there is a root, if not -> we're done searching!
+    - If there is a root, check if the value of the new node is the value we are looking for.
+        - If we found it, we're done!
+    - If not, check to see if the value is greater than or less than the value of the root.
+    - If it is greater:
+        - Check to see if there is a node to the right.
+            - If there is -> move to that node and repeat these steps.
+            - If there is not -> we're done searching.
+    - If it is less:
+        - Check to see if there is a node to the left.
+            - If there is -> move to that node and repeat these steps.
+            - If there is not, we're done searching!
