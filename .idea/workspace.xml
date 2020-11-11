@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18.-Trees/BST_BigOComplexity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/BST_BigOComplexity_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/BinarySearchTree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/BinaryTree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/InsertingBinarySearchTree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/NotABinaryTree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/NotATree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/NotATree_without_root.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/Tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/binarySearchTree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/binarySearchTree_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.-Trees/isATree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/BFS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/DFS_In_Order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/DFS_Post_Order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/DFS_Pre_Order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/bfsTraversing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,19 +36,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/18.-Trees" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/19.-Tree Traversal" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/6.-Searching" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/19.-Tree Traversal" />
       <recent name="$PROJECT_DIR$/18.-Trees" />
       <recent name="$PROJECT_DIR$/17.-Stacks + Queues" />
       <recent name="$PROJECT_DIR$/16.-Doubly Linked Lists" />
       <recent name="$PROJECT_DIR$/15.-Singly Linked Lists" />
-      <recent name="$PROJECT_DIR$/13.-Radix Sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6.-Searching" />
     </key>
   </component>
   <component name="RunManager">
@@ -131,7 +124,8 @@
       <workItem from="1604563677956" duration="4845000" />
       <workItem from="1604647526459" duration="17000" />
       <workItem from="1604647611257" duration="11685000" />
-      <workItem from="1605024032651" duration="5866000" />
+      <workItem from="1605024032651" duration="6105000" />
+      <workItem from="1605086730184" duration="7619000" />
     </task>
     <servers />
   </component>

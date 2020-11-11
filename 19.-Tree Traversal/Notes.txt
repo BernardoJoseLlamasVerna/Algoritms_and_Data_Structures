@@ -1,0 +1,85 @@
+1.-Traversing a tree:
+---------------------
+- Traversing ===> Visit one node each time.
+- Two ways of traversing a tree:
+    - Breadth-first Search (BFS)
+    - Depth-first Search (DFS)
+
+2.-Breadth-first Search (BFS):
+------------------------------
+- We visit each node on the same level --> every sibling node before we look at a child.
+
+*Steps - Iteratively:
+- Create a queue (this can be an array) and a variable to store the values of nodes visited.
+- Place the root node in the queue.
+- Loop as long as there is anything in the queue:
+    - Dequeue a node from the queue and push the value of the node into the variable that stores the nodes.
+    - If there is a left property on the node dequeued - add it to the queue.
+    - If there is a right property on the node dequeued - add it to the queue.
+- Return the variable that stores the values.
+
+3.-Depth-first Search (DFS):
+----------------------------
+3.1.-DFS - PreOrder:
+--------------------
+- We traverse down until we hit the end of the tree at some point.
+    - We visit the node, we look at the left and we look at the right just by changing the order.
+
+*Steps - Iteratively:
+- Create a variable to store the values of nodes visited.
+- Store the root of the BST (Binary Search Tree) in a variable called current.
+- Write a helper function which accepts a node:
+    - Push the value of the node to the variable that stores the values.
+    - If the node has a left property, call the helper function with the left property on the node.
+    - If the node has a right property, call the helper function with the right property on the node.
+    - Invoke the helper function with the current variable.
+- Return the array of values.
+
+3.2.-DFS - PostOrder:
+---------------------
+- The same as PreOrder except the order of steps to be done.
+
+*Steps - Iteratively:
+- Create a variable to store the values of nodes visited.
+- Store the root of the BST (Binary Search Tree) in a variable called current.
+- Write a helper function which accepts a node:
+    - If the node has a left property, call the helper function with the left property on the node.
+    - If the node has a right property, call the helper function with the right property on the node.
+    - Push the value of the node to the variable that stores the values.
+    - Invoke the helper function with the current variable.
+- Return the array of values.
+
+3.3.-DFS - InOrder:
+-------------------
+- The same as PreOrder except the order of steps to be done.
+
+*Steps - Iteratively:
+- Create a variable to store the values of nodes visited.
+- Store the root of the BST (Binary Search Tree) in a variable called current.
+- Write a helper function which accepts a node:
+    - If the node has a left property, call the helper function with the left property on the node.
+    - Push the value of the node to the variable that stores the values.
+    - If the node has a right property, call the helper function with the right property on the node.
+    - Invoke the helper function with the current variable.
+- Return the array of values.
+
+4.- When to use BFS or DFS:
+---------------------------
+- both have same Time Complexity but not same Space Complexity.
+- It depends on the kind of tree:
+    - BFS for trees with fewer nodes to keep track of.
+    - DFS can be used better in bigger trees.
+
+- DFS InOrder:
+    - Commonly used with Binary Search trees.
+
+- DFS PreOrder:
+    - Can be used to "export" a tree structure so that it's easily reconstructed or copied.
+
+5.-Recap:
+---------
+- Trees are non-linear data structures that contain a root and child nodes.
+- Binary Trees can have values of any type, but at most two children for each parent.
+- Binary Search Trees are a more specific version of binary trees where every node to
+  the left of a parent is less than it's value and every node to the right is greater.
+- We can search through Trees using BFS and DFS.
