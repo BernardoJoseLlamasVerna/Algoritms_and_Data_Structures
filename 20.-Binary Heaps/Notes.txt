@@ -1,0 +1,40 @@
+Binary Heaps:
+-------------
+- Heaps are a category of trees with special rules.
+- Very similar to a Binary Search Tree, but with some different rules.
+    - In a MaxBinaryHeap, parent nodes are always larger than child nodes.
+    - In a MinBinaryHeap, parent nodes are always smaller than child nodes.
+- There's no order between nodes of same level as happened with Binary Search Trees.
+
+1.-Max Binary Heap:
+-------------------
+- Each parent has at most two child nodes.
+- The value of each parent node is always greater than its child nodes.
+- In a max Binary Heap the parent is greater than the children,
+  but there are no guarantees between sibling nodes.
+- A binary heap is as compact as possible. All the children of each node
+  are as full as they can be and left children are filled out first.
+
+2.-Min Binary Heap:
+-------------------
+- Each parent has at most two child nodes.
+- The value of each parent node is always smaller than its child nodes.
+- In a min Binary Heap the parent is smaller than the children,
+  but there are no guarantees between sibling nodes.
+
+3.-Implementations:
+-------------------
+- Binary Heaps are used to implement Priority Queues, which are very commonly used data structures.
+- They are also used quite a bit, with graph traversal algorithms.
+
+4.-Insert Pseudocode:
+---------------------
+- Push the value into the values property on the heap.
+- Bubble Up:
+    - Create a variable called index which is the length of the values property -1.
+    - Create a variable called parentIndex which is the floor of (index - 1)/2.
+    - Keep looping as long as the values element at the parentIndex is less than
+      the values element at the child index.
+        - Swap the value of the values element at the parentIndex with the value of the
+          element property at the child index.
+        - Set the index to be the parentIndex, adn start over!

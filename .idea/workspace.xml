@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/BFS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/DFS_In_Order.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/DFS_Post_Order.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/DFS_Pre_Order.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.-Tree Traversal/bfsTraversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/BinaryHeap_MaxOrder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/binaryHeap_add_to_end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/binaryHeap_bubble_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/binaryHeap_parent_child_rules.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/binaryHeap_parent_child_rules_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/binaryHeap_parent_childs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/maxBinaryHeap_rules_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/maxBinaryHeap_rules__2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/minBinaryHeap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/notABinaryHeap_is_a_BST.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/representingAHeap.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +42,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/19.-Tree Traversal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20.-Binary Heaps/images" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
+      <recent name="$PROJECT_DIR$/6.-Searching" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
+      <recent name="$PROJECT_DIR$/20.-Binary Heaps" />
       <recent name="$PROJECT_DIR$/19.-Tree Traversal" />
       <recent name="$PROJECT_DIR$/18.-Trees" />
       <recent name="$PROJECT_DIR$/17.-Stacks + Queues" />
-      <recent name="$PROJECT_DIR$/16.-Doubly Linked Lists" />
-      <recent name="$PROJECT_DIR$/15.-Singly Linked Lists" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/6.-Searching" />
     </key>
   </component>
   <component name="RunManager">
@@ -126,6 +133,8 @@
       <workItem from="1604647611257" duration="11685000" />
       <workItem from="1605024032651" duration="6105000" />
       <workItem from="1605086730184" duration="7619000" />
+      <workItem from="1605168361052" duration="4000" />
+      <workItem from="1605169612095" duration="3537000" />
     </task>
     <servers />
   </component>
