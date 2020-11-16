@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/BinaryHeaps_BigO_Notation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.-Binary Heaps/images/BinaryHeaps_BigO_Notation_Insert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.-Hash Tables/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.-Hash Tables/SeparateChaining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.-Hash Tables/hashTables.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20.-Binary Heaps/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/20.-Binary Heaps/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20.-Binary Heaps/maxBinaryHeap.js" beforeDir="false" afterPath="$PROJECT_DIR$/20.-Binary Heaps/maxBinaryHeap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20.-Binary Heaps/priorityQueue.js" beforeDir="false" afterPath="$PROJECT_DIR$/20.-Binary Heaps/priorityQueue.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/20.-Binary Heaps/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/21.-Hash Tables" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -44,11 +42,11 @@
       <recent name="$PROJECT_DIR$/6.-Searching" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/21.-Hash Tables" />
       <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
       <recent name="$PROJECT_DIR$/20.-Binary Heaps" />
       <recent name="$PROJECT_DIR$/19.-Tree Traversal" />
       <recent name="$PROJECT_DIR$/18.-Trees" />
-      <recent name="$PROJECT_DIR$/17.-Stacks + Queues" />
     </key>
   </component>
   <component name="RunManager">
@@ -129,7 +127,7 @@
       <workItem from="1605168361052" duration="4000" />
       <workItem from="1605169612095" duration="3812000" />
       <workItem from="1605252667085" duration="6233000" />
-      <workItem from="1605512196154" duration="2440000" />
+      <workItem from="1605512196154" duration="5049000" />
     </task>
     <servers />
   </component>
