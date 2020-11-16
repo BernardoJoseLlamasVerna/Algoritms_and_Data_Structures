@@ -70,3 +70,11 @@ Binary Heaps:
   in the right spot based off of its priority.
 - Dequeue method removes root element, returns it and rearranges heap using priority.
 
+7.-Big O Complexity:
+--------------------
+- Binary Heaps are good for inserting and removing.
+- Binary Heaps are very useful data structures for sorting and implementing
+  other data structures like priority queues.
+- Binary Heaps are either MaxBinaryHeaps or MinBinaryHeaps with parents either
+  being smaller or larger than their children.
+- With just a little bit of math, we can represent heaps using arrays!
