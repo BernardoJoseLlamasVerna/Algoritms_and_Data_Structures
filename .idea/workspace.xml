@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/AdjacencyList.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/AdjacencyList_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/AdjacencyMatrix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/DirectedGraph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/GraphTerminology.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/List_vs_Matrix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/UndirectedGraph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/Weighted_Undirected_Graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.-Graphs/graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.-Graph Traversal/DepthFirstGraph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.-Graph Traversal/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.-Graph Traversal/graph.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +33,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/22.-Graphs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/23.-Graph Traversal" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
-      <recent name="$PROJECT_DIR$/6.-Searching" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/23.-Graph Traversal" />
       <recent name="$PROJECT_DIR$/22.-Graphs" />
       <recent name="$PROJECT_DIR$/21.-Hash Tables" />
       <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
       <recent name="$PROJECT_DIR$/20.-Binary Heaps" />
-      <recent name="$PROJECT_DIR$/19.-Tree Traversal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
+      <recent name="$PROJECT_DIR$/6.-Searching" />
     </key>
   </component>
   <component name="RunManager">
@@ -138,7 +131,10 @@
       <workItem from="1605599115023" duration="8000" />
       <workItem from="1605600164088" duration="4854000" />
       <workItem from="1605687669743" duration="6000" />
-      <workItem from="1605687687597" duration="6220000" />
+      <workItem from="1605687687597" duration="6867000" />
+      <workItem from="1605772016559" duration="21000" />
+      <workItem from="1605777756966" duration="36000" />
+      <workItem from="1605796457319" duration="5186000" />
     </task>
     <servers />
   </component>
