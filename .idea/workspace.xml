@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/24.-Dijkstras Algorithm/Find_Shortest_finalized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-Dijkstras Algorithm/Find_Shortest_initialized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-Dijkstras Algorithm/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-Dijkstras Algorithm/dijkstraBinaryHeap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-Dijkstras Algorithm/dijkstraFirstVersion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-Dijkstras Algorithm/priorityQueueBasic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.-Dijkstras Algorithm/weightedGraph.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23.-Graph Traversal/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/23.-Graph Traversal/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/23.-Graph Traversal/graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/23.-Graph Traversal/graph.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +38,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/23.-Graph Traversal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/24.-Dijkstras Algorithm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
+      <recent name="$PROJECT_DIR$/6.-Searching" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/24.-Dijkstras Algorithm" />
       <recent name="$PROJECT_DIR$/23.-Graph Traversal" />
       <recent name="$PROJECT_DIR$/22.-Graphs" />
       <recent name="$PROJECT_DIR$/21.-Hash Tables" />
       <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
-      <recent name="$PROJECT_DIR$/20.-Binary Heaps" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/20.-Binary Heaps/images" />
-      <recent name="$PROJECT_DIR$/6.-Searching" />
     </key>
   </component>
   <component name="RunManager">
@@ -134,7 +140,7 @@
       <workItem from="1605772016559" duration="21000" />
       <workItem from="1605777756966" duration="36000" />
       <workItem from="1605796457319" duration="5186000" />
-      <workItem from="1605856630921" duration="3224000" />
+      <workItem from="1605856630921" duration="10022000" />
     </task>
     <servers />
   </component>
@@ -170,9 +176,9 @@
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state x="540" y="243" key="run.anything.popup/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1605630644374" />
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1605629624641">
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1605888139172">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1605629624641" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.1080.1920.1080/75.0.1845.1080@75.0.1845.1080" timestamp="1605888139172" />
   </component>
 </project>

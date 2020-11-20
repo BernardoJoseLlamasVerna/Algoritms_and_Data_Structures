@@ -90,6 +90,7 @@ class Graph {
 * g.addVertex("B")
 * g.addVertex("C")
 * g.addVertex("D")
+* g.addVertex("E")
 * g.addVertex("F")
 *
 * g.addEdge("A", "B")
