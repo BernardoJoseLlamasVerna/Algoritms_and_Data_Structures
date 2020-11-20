@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0673e01a-c92e-4998-a114-35a19a24b0f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/23.-Graph Traversal/DepthFirstGraph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23.-Graph Traversal/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23.-Graph Traversal/graph.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.-Graph Traversal/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/23.-Graph Traversal/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.-Graph Traversal/graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/23.-Graph Traversal/graph.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +134,7 @@
       <workItem from="1605772016559" duration="21000" />
       <workItem from="1605777756966" duration="36000" />
       <workItem from="1605796457319" duration="5186000" />
+      <workItem from="1605856630921" duration="3224000" />
     </task>
     <servers />
   </component>
