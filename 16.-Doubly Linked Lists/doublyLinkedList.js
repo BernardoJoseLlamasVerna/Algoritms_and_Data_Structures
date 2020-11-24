@@ -145,4 +145,23 @@ class DoublyLinkedList {
         }
         return this;
     }
+    /*rotate(toIndex) {
+        if (Math.abs(toIndex) > this.length) {
+            const circles = Math.floor(toIndex / this.length);
+            toIndex = toIndex - (this.length * circles);
+        }
+
+        if (toIndex < 0) toIndex = this.length + toIndex;
+        if (!toIndex) return;
+
+        let node = this.head;
+        while (toIndex) {
+            this.head = node.next;
+            this.tail.next = node;
+            this.tail = node;
+            node.next = null;
+            node = this.head;
+            toIndex--;
+        }
+    }*/
 }
